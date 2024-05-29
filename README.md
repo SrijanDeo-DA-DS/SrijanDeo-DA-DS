@@ -9,6 +9,9 @@
 
 - 📫 How to reach me **deo.srijan25@gmail.com**
 
+- 📄 Know about my experiences [https://sites.google.com/njit.edu/srijan-ds-portfolio/home](https://sites.google.com/njit.edu/srijan-ds-portfolio/home)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/srijan-deo-81359a16b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srijan-deo-81359a16b" height="30" width="40" /></a>
