@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Srijan Deo</h1>
 <h3 align="center">Machine Learning | Data Science</h3>
 
-- 🔭 I’m currently working on **Churn Model at a Telecom giant**
+- 🔭 I’m currently working on **Idenfity Profitable Customers Dashboard**
 
 - 🌱 I’m currently learning **MLOps and Deep Learning**
 
